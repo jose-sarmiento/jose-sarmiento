@@ -59,3 +59,7 @@
 - [Shoppifyy](https://shoppifyy-ecommerce.herokuapp.com/) - A complete e-commerce app built with Node.js, Express, MongoDB and React 
 - [Finder](https://finder-pi.vercel.app/) - Simple movie project design to list and view movies using [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction) 
 
+
+---
+
+[![Jose Sarmiento's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-sarmiento)](https://github.com/anuraghazra/github-readme-stats)
