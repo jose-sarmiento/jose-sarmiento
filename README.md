@@ -11,8 +11,11 @@
 ### Connect with me:
 
 [![website](./images/earth.svg)]()
+&nbsp;&nbsp;
 [![facebook](./images/facebook2.svg)]()
+&nbsp;&nbsp;
 [![linkedin](./images/linkedin.svg)]()
+&nbsp;&nbsp;
 [![email](./images/envelop.svg)](mailto:jose.dev.official@gmail.com)
 
 ### Languages, Frameworks, Databases and Tools:
