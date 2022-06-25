@@ -7,6 +7,8 @@
 - <img align="left" alt="React" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> I like doing frontend projects with react
 - <img align="left" alt="React" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> Node js is my prefered language when building backends but i also know PHP/Laravel
 
+Checkout my [web developer portfolio](https://jsarmiento-portfolio.vercel.app/)
+
 ### Connect with me:
 
 &nbsp;&nbsp;
