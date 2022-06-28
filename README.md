@@ -3,9 +3,9 @@
 
 ## I'm a Fullstack Developer!!
 
-- :mortar_board: I just graduated as an IT recently this year. I'm looking forward for my first web developer job.
-- <img align="left" alt="React" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> I like doing frontend projects with react
-- <img align="left" alt="React" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> Node js is my prefered language when building backends but i also know PHP/Laravel
+- :mortar_board: I recently graduated at Catanduanes State University, with the degree of Bachelor of Science in Information Technology.
+- :computer: I specialized in Javascript, Node.js in backend and React.js in Frontend (MERN)
+- :loudspeaker: ***Responsive design*** | ***REST API's*** | ***Automated Testing*** | ***Design patterns***
 
 Checkout my [web developer portfolio](https://jsarmiento-portfolio.vercel.app/)
 
