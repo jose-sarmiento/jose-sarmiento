@@ -52,12 +52,8 @@ Checkout my [web developer portfolio](https://jsarmiento-portfolio.vercel.app/)
 ### 📺 Recent Projects
 
 - [Socialize](https://socialize-v1.herokuapp.com/) - A socialmedia app built with Node.js, Express, MongoDB, React.
-- [Restaurant Point of Sales System](https://github.com/jose-sarmiento/restaurant_pos) - A restaurant POS Rest API built with PHP, Laravel and MySQL.
-- [DoodaPH](https://doodaph.vercel.app/) - A frontend only Booking app built with React. (project as a company intern)
 - [Shoppifyy](https://shoppifyy-ecommerce.herokuapp.com/) - A complete e-commerce app built with Node.js, Express, MongoDB and React 
+- [DoodaPH](https://doodaph.vercel.app/) - A frontend only Booking app built with React. (project as a company intern)
+- [Restaurant Point of Sales System](https://github.com/jose-sarmiento/restaurant_pos) - A restaurant POS Rest API built with PHP, Laravel and MySQL.
 - [Finder](https://finder-pi.vercel.app/) - Simple movie project design to list and view movies using [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction) 
 
-
----
-
-[![Jose Sarmiento's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-sarmiento)](https://github.com/anuraghazra/github-readme-stats)
