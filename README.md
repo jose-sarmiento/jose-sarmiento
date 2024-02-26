@@ -2,7 +2,7 @@
 
 
 ## I'm a Fullstack Developer!!
-### I work currently at Media Meter Inc as Senior Backend Developer
+### I work currently at [Media Meter Inc](https://media-meter.com/) as Senior Backend Developer
 
 <!-- Checkout my [web developer portfolio](https://jsarmiento-portfolio.vercel.app/) -->
 
@@ -14,10 +14,10 @@
 [![linkedin](./images/linkedin.svg)](https://www.linkedin.com/in/jose-sarmiento-37518a243/)
 
 ### Languages, Frameworks, Databases and Tools:
-• JavaScript | Node | Express | PHP | Laravel/Lumen | Python | FastAPI | MySql | NoSQL | MongoDB | Redis
-• Docker | Git | Bitbucket | React | Redux | Html & CSS | SASS | Responsive Design
-• AWS | Cloud Computing | ChatGPT | LLM | Unit Testing | OOP | REST API
-• Microservices | Frontend | Backend | Full-Stack
+* JavaScript | Node | Express | PHP | Laravel/Lumen | Python | FastAPI | MySql | NoSQL | MongoDB | Redis
+* Docker | Git | Bitbucket | React | Redux | Html & CSS | SASS | Responsive Design
+* AWS | Cloud Computing | ChatGPT | LLM | Unit Testing | OOP | REST API
+* Microservices | Frontend | Backend | Full-Stack
 
 <br/>
 &nbsp;
